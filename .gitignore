@@ -1,0 +1,14 @@
+History
+Project Logs for *
+*.PcbDoc.htm
+*.PrjPCBStructure
+*.bak
+*.o
+*_Data
+Obj
+*.OutJob
+*.pdf
+*.intlib
+Project Outputs for *
+*_backup.*
+__Previews
