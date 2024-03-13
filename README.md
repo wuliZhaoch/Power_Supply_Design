@@ -1,7 +1,5 @@
 # Power_Test_Demo
 
-此工程仅仅针对电源设计验证创建...
-
 ### TPS62130RGTT Buck Circuit Design
 
 > TPS6213x系列Buck电源芯片型号分为可调节和固定输出电压两种，均采用 3x3mm 16引脚VQFN封装；
@@ -32,3 +30,4 @@
 * **1.5  Frequency Selection (FSW)**
 * **1.6  Undervoltage Lockout (UVLO)**
 * **1.7  Thermal Shutdown**
+* 
